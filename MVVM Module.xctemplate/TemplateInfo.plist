@@ -54,11 +54,6 @@
 				<string>BaseViewController</string>
 				<string>UITableViewCell</string>
 			</array>
-			<key>Suffixes</key>
-			<dict>
-				<key>BaseViewController</key>
-				<string>ViewController</string>
-			</dict>
 		</dict>
 		<dict>
 			<key>Identifier</key>
