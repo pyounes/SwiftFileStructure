@@ -26,7 +26,7 @@ If the installation succeded you should find your template when generating a new
 
 #### Useage
 ```
-Make Sure to initialize your viewModel and DataSource and set them to their designated variables.
+Make Sure you have the base Classes For the Viewcontroller and the Viewmode in your project `BaseViewController` & `BaseVM`
 Do not Import UIKit to the viewModel.
 ```
 
