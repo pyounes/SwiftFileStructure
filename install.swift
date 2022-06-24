@@ -29,9 +29,11 @@ func moveTemplate(){
             printInConsole("✅  Template installed succesfully 🎉. Enjoy it 🙂")
 
         }else{
-
-            try _ = fileManager.replaceItemAt(URL(fileURLWithPath:"\(destinationPath)/\(templateName)"), withItemAt: URL(fileURLWithPath:templateName))
-
+          
+            try fileManager.removeItem(atPath: "\(destinationPath)/\(templateName)")
+            
+            try fileManager.copyItem(atPath: templateName, toPath: "\(destinationPath)/\(templateName)")
+          
             printInConsole("✅  Template already exists. So has been replaced succesfully 🎉. Enjoy it 🙂")
         }
     }
