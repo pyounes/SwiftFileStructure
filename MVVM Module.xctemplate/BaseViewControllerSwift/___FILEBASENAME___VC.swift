@@ -2,7 +2,7 @@
 
 import UIKit
 
-final class ___FILEBASENAMEASIDENTIFIER___: BaseViewController<___VARIABLE_productName:identifier___VM> {
+final class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_subclass___<___VARIABLE_productName:identifier___VM> {
 
   // MARK: -  Outlets
   
