@@ -1,18 +1,13 @@
 # SwiftFileStructure
 <p align="center">
-<img src="/assets/montyLogo.png" width="300" />
+<img src="/assets/montyLogo.png" width="500" />
 <br/>
 <img src="https://img.shields.io/badge/Swift-5.3-green.svg" />
 </p>
 
 
-> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
-
-----
->Are you new to MVVM Design Pattern? Want to Learn it But feel overwhelmed of all the files you have to create?
-
 ## What kind of files the template will generate?
->This template generates The View ViewController and the ViewModel with their respective inheritance.`
+>This template generates The ViewController and the ViewModel with their respective inheritance.`
 
 | File Name | Acts As | Description |
 | :---                      |     :---                |                         :---                              |
@@ -42,12 +37,6 @@ Go to Application folder, browse to the Xcode application icon. Right-click it a
 ## How it works?
 Open xcode, Create a new group in your project for your module and named it e.g. `Profile Module` then create a new file inside that folder and select MVVM Module, type the name, and your files will be generated.
 
-![](/assets/wizard-1.png)
-
-![](/assets/wizard-2.png)
-
-## MVVM diagram overview
-![Preview](/assets/MVVM_Diagram.png)
 
 ## What is MVVM?
 MVVM is not a framework but an approach to iOS application architecture, which stands for:
