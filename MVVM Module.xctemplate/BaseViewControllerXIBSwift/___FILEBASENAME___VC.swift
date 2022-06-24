@@ -4,6 +4,9 @@ import UIKit
 
 final class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_subclass___<___VARIABLE_productName:identifier___VM> {
 
+  // MARK: - Storyboard
+    override class var pageStoryBoard: AppStoryboard { .Main }
+
   // MARK: -  Outlets
   
   
