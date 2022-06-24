@@ -36,7 +36,7 @@
 		</dict>
 		<dict>
 			<key>Identifier</key>
-			<string>cocoaTouchSubclass</string>
+			<string>subclass</string>
 			<key>Required</key>
 			<string>YES</string>
 			<key>Name</key>
@@ -70,7 +70,7 @@
 			<string>checkbox</string>
 			<key>RequiredOptions</key>
 			<dict>
-				<key>cocoaTouchSubclass</key>
+				<key>subclass</key>
 				<array>
 					<string>BaseViewController</string>
 				</array>

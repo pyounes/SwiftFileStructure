@@ -1,8 +1,8 @@
 # SwiftFileStructure
 <p align="center">
-<img src="/assets/logo.png" width="200" />
+<img src="/assets/montyLogo.png" width="200" />
 <br/>
-<img src="https://img.shields.io/badge/Swift-4.2-orange.svg" />
+<img src="https://img.shields.io/badge/Swift-5.3-green.svg" />
 </p>
 
 
