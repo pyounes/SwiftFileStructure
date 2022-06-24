@@ -19,3 +19,5 @@ final class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_subclass___ {
         
     }
 }
+
+extension ___FILEBASENAMEASIDENTIFIER___: CellIdentifiable  { }
