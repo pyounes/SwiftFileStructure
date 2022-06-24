@@ -69,6 +69,7 @@
 				<key>subclass</key>
 				<array>
 					<string>BaseViewController</string>
+					<string>UITableViewCell</string>
 				</array>
 			</dict>
 			<key>Default</key>
