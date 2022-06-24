@@ -13,6 +13,7 @@
 | :---                      |     :---                |                         :---                              |
 | `YourFileNameVC.swift`    | BaseViewController      | This is where your design layout should be.               |
 | `YourFileNameVM.swift`    | ViewModel               | This is what will communicate with the Datasource & View. |
+| `YourFileNameVC.swift`    | View XIB                | This file is the UI if needed    (Optional)               |
 
 ## How to install
 
