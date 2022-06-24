@@ -52,6 +52,7 @@
 			<key>Values</key>
 			<array>
 				<string>BaseViewController</string>
+				<string>UITableViewCell</string>
 			</array>
 			<key>Suffixes</key>
 			<dict>
