@@ -9,7 +9,7 @@
 ## What kind of files the template will generate?
 >This template generates The ViewController and the ViewModel with their respective inheritance.`
 
-| File Name | Acts As | Description |
+| File Name                 | Acts As                 | Description                                               |
 | :---                      |     :---                |                         :---                              |
 | `YourFileNameVC.swift`    | BaseViewController      | This is where your design layout should be.               |
 | `YourFileNameVM.swift`    | ViewModel               | This is what will communicate with the Datasource & View. |
