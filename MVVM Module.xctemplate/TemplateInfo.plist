@@ -54,6 +54,7 @@
 				<string>BaseViewController</string>
 				<string>UITableViewCell</string>
 				<string>UICollectionViewCell</string>
+				<string>UITableView</string>
 			</array>
 		</dict>
 		<dict>
@@ -72,6 +73,7 @@
 					<string>BaseViewController</string>
 					<string>UITableViewCell</string>
 					<string>UICollectionViewCell</string>
+					<string>UITableView</string>
 				</array>
 			</dict>
 			<key>Default</key>
