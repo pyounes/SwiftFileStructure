@@ -46,12 +46,12 @@
 			<key>Type</key>
 			<string>popup</string>
 			<key>Default</key>
-			<string>BaseViewController</string>
+			<string>UIViewController</string>
 			<key>FallbackHeader</key>
 			<string>#import &lt;UIKit/UIKit.h&gt;</string>
 			<key>Values</key>
 			<array>
-				<string>BaseViewController</string>
+				<string>UIViewController</string>
 				<string>UITableViewCell</string>
 				<string>UICollectionViewCell</string>
 			</array>
@@ -69,13 +69,13 @@
 			<dict>
 				<key>subclass</key>
 				<array>
-					<string>BaseViewController</string>
+					<string>UIViewController</string>
 					<string>UITableViewCell</string>
 					<string>UICollectionViewCell</string>
 				</array>
 			</dict>
 			<key>Default</key>
-			<string>false</string>
+			<string>true</string>
 			<key>NotPersisted</key>
 			<true/>
 		</dict>
