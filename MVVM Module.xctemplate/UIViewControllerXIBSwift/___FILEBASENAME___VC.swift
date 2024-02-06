@@ -5,9 +5,10 @@ import UIKit
 final class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_subclass___ {
 
   // MARK: -  Outlets
+  @IBOutlet weak var tableView: UITableView!
   
   // MARK: Variables
-  private let vm: ___VARIABLE_productName:identifier___VM = ___VARIABLE_productName:identifier___VM()
+  var vm: ___VARIABLE_productName:identifier___VM!
   
 }
 
@@ -18,7 +19,7 @@ extension ___FILEBASENAMEASIDENTIFIER___ {
     super.viewDidLoad()
     // Do any additional setup after loading the view.
     setupView()
-    setupData()
+    bind()
   }
 }
 
@@ -31,11 +32,11 @@ extension ___FILEBASENAMEASIDENTIFIER___ {
 
 // MARK: - Custom Methods
 private extension ___FILEBASENAMEASIDENTIFIER___ {
-  private func setupView() {
+  func setupView() {
     
   }
   
-  private func setupData() {
+  func bind() {
     
   }
 }
